@@ -1,4 +1,4 @@
-!!!I am not responsible or use legal proceedings for illegal actions at your own risk it is a test for your Internet connection and router.!!!
+!!!I am not responsible or use legal proceedings for illegal actions at your own risk it is a test for your Internet connection and router Or your own Website.!!!
 # ZAmbIE
 ZAmbIE is a Toolkit(not finished yet) Made By Lunatic2(me) in PYTHON
 for recon,information-gathering And it Has a Collection For DDoS Attacks
